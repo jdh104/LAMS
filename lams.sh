@@ -4,13 +4,6 @@ VERSION=v1.0.3
 
 clear
 
-echo ""
-echo "LARRY'S ARCADE MANAGEMENT SYSTEM"
-echo "LOADING..."
-du > tmp/.dump
-
-sleep 1
-
 this=""
 name=""
 nam1=""
