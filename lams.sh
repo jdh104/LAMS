@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 ## LARRY'S ARCADE MANAGEMENT SYSTEM
 VERSION=v1.0.3
 
