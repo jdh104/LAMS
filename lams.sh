@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 ## LARRY'S ARCADE MANAGEMENT SYSTEM
-VERSION=v1.0.3
+VERSION='2017.11.13'
 
 clear
 
